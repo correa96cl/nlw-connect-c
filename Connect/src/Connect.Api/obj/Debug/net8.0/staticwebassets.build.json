@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nJiIlqZGNt1v9jxGsMk49rHePnx29/MgOtNegdRXisU=",
+  "Source": "Connect.Api",
+  "BasePath": "_content/Connect.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
