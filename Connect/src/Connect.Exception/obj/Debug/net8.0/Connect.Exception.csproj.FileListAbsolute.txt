@@ -1,0 +1,12 @@
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/bin/Debug/net8.0/Connect.Exception.deps.json
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/bin/Debug/net8.0/Connect.Exception.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/bin/Debug/net8.0/Connect.Exception.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.AssemblyInfoInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.AssemblyInfo.cs
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.csproj.CoreCompileInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.sourcelink.json
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/refint/Connect.Exception.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/Connect.Exception.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Exception/obj/Debug/net8.0/ref/Connect.Exception.dll

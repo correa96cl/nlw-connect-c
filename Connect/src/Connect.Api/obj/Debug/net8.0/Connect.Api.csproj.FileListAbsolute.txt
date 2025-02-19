@@ -31,3 +31,9 @@
 /Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/obj/Debug/net8.0/Connect.Api.pdb
 /Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/obj/Debug/net8.0/Connect.Api.genruntimeconfig.cache
 /Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/obj/Debug/net8.0/ref/Connect.Api.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/obj/Debug/net8.0/Connect.Api.sourcelink.json
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/bin/Debug/net8.0/Connect.Communication.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/bin/Debug/net8.0/Connect.Communication.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/bin/Debug/net8.0/FluentValidation.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/bin/Debug/net8.0/Connect.Exception.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Api/bin/Debug/net8.0/Connect.Exception.pdb

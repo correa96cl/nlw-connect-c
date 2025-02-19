@@ -1,0 +1,12 @@
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/bin/Debug/net8.0/Connect.Communication.deps.json
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/bin/Debug/net8.0/Connect.Communication.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/bin/Debug/net8.0/Connect.Communication.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.AssemblyInfoInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.AssemblyInfo.cs
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.csproj.CoreCompileInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.sourcelink.json
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/refint/Connect.Communication.dll
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/Connect.Communication.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/nlw-connect-c/Connect/src/Connect.Communication/obj/Debug/net8.0/ref/Connect.Communication.dll

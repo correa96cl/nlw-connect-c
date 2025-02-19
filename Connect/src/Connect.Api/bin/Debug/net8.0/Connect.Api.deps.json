@@ -8,11 +8,22 @@
     ".NETCoreApp,Version=v8.0": {
       "Connect.Api/1.0.0": {
         "dependencies": {
+          "Connect.Communication": "1.0.0",
+          "Connect.Exception": "1.0.0",
+          "FluentValidation": "11.11.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.5",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
           "Connect.Api.dll": {}
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/8.0.5": {
@@ -72,6 +83,16 @@
             "fileVersion": "6.4.0.0"
           }
         }
+      },
+      "Connect.Communication/1.0.0": {
+        "runtime": {
+          "Connect.Communication.dll": {}
+        }
+      },
+      "Connect.Exception/1.0.0": {
+        "runtime": {
+          "Connect.Exception.dll": {}
+        }
       }
     }
   },
@@ -80,6 +101,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/8.0.5": {
       "type": "package",
@@ -129,6 +157,16 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "Connect.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Connect.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
